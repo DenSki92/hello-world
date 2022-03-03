@@ -1,2 +1,6 @@
 # hello-world
-first repository
+## let's give it a try
+
+*italic*
+**bold** 
+> yada yada
